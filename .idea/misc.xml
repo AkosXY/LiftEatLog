@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Akos/BME/Targyak/ARCHIVE/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_calculator.xml" value="0.33958333333333335" />
+        <entry key="..\:/Akos/BME/Targyak/ARCHIVE/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_chart.xml" value="0.33958333333333335" />
+        <entry key="..\:/Akos/BME/Targyak/ARCHIVE/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_main.xml" value="0.26313405797101447" />
+        <entry key="..\:/Akos/BME/Targyak/ARCHIVE/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_menu.xml" value="0.26313405797101447" />
+        <entry key="..\:/Akos/BME/Targyak/ARCHIVE/MobWeb/HF/LiftLog/app/src/main/res/layout/dialog_new_lifting_item.xml" value="0.26313405797101447" />
+        <entry key="..\:/Akos/BME/Targyak/ARCHIVE/MobWeb/HF/LiftLog/app/src/main/res/layout/item_lifting_list.xml" value="0.33958333333333335" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/drawable/ic_baseline_meal.xml" value="0.187" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/layout/activity_calculator.xml" value="0.33958333333333335" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/layout/activity_chart.xml" value="0.23052536231884058" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/layout/activity_main.xml" value="0.23052536231884058" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/layout/activity_meal.xml" value="0.25" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/layout/activity_menu.xml" value="0.15283842794759825" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/layout/dialog_new_lifting_item.xml" value="0.25" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/layout/item_lifting_list.xml" value="0.23007246376811594" />
+        <entry key="..\:/Akos/BME/Targyak/Android/HF/LiftLog/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1225" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.25092592592592594" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/drawable/ic_add.xml" value="0.17962962962962964" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/drawable/ic_delete.xml" value="0.36153846153846153" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3671875" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_calculator.xml" value="0.22" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_chart.xml" value="0.1" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/dialog_new_lifting_item.xml" value="0.27853260869565216" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/dialog_new_shopping_item.xml" value="0.25" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/item_lifting_list.xml" value="0.27853260869565216" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/HF/LiftLog/app/src/main/res/layout/item_shopping_list.xml" value="0.2708333333333333" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/ShoppingList - Copy/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/ShoppingList - Copy/app/src/main/res/layout/dialog_new_shopping_item.xml" value="0.1" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/ShoppingList - Copy/app/src/main/res/layout/item_shopping_list.xml" value="0.36666666666666664" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/ShoppingList/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/Akos/BME/Targyak/MobWeb/ShoppingList/app/src/main/res/layout/dialog_new_shopping_item.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

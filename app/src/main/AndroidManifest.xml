@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="hu.bme.aut.android.liftlog">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+
+    <application
+        android:usesCleartextTraffic="true"
+        android:allowBackup="true"
+        android:icon="@drawable/deadlift"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/deadlift"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.LiftLog">
+
+
+        <activity
+
+            android:name="hu.bme.aut.android.liftlog.activities.MainActivity"
+            android:exported="true" />
+
+        <activity
+            android:screenOrientation="portrait"
+            android:name="hu.bme.aut.android.liftlog.activities.MealActivity"
+            android:exported="true" />
+
+        <activity
+            android:screenOrientation="portrait"
+            android:name="hu.bme.aut.android.liftlog.activities.CalculatorActivity"
+            android:exported="true" />
+
+        <activity
+            android:screenOrientation="portrait"
+            android:name="hu.bme.aut.android.liftlog.activities.ChartActivity"
+            android:exported="true" />
+        <activity
+            android:screenOrientation="portrait"
+            android:name="hu.bme.aut.android.liftlog.activities.MenuActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+    </application>
+
+</manifest>

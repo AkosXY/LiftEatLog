@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">LiftLog</string>
+
+
+    <string name="button_ok">OK</string>
+    <string name="button_cancel">Cancel</string>
+
+    <string name="weight">Weight</string>
+    <string name="exercise">Exercise</string>
+    <string name="reps">Reps</string>
+    <string name="new_lifting_item">New Lift</string>
+    <string name="rm1_calc_title">1 Rep Max Calculator</string>
+    <string name="weight_kg_lbs">Weight (kg/lbs):</string>
+    <string name="reps_performed">Reps performed:</string>
+    <string name="result">Result</string>
+    <string name="calculate">calculate</string>
+    <string name="total_volume_exercise">Total volume/exercise:</string>
+    <string name="benchPie">bench</string>
+    <string name="deadliftPie">deadlift</string>
+    <string name="squatPie">squat</string>
+    <string name="eat">Eat-</string>
+    <string name="lift">Lift</string>
+    <string name="log">-Log</string>
+    <string name="chartLiftsPerformed">Lifts Performed/exercise</string>
+    <string name="meal_suggestion">This is our meal suggestion:</string>
+    <string name="watch_on_youtube">Click on image to watch it on YouTube</string>
+    <string name="meal">meal</string>
+
+    <string-array name="category_items">
+        <item>Squat</item>
+        <item>Bench</item>
+        <item>Deadlift</item>
+    </string-array>
+</resources>
