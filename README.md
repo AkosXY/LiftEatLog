@@ -10,7 +10,7 @@ valamint hasznos receptekkel könnyítve a sportoló fejlődését.
 ## Felhasznált technológiák
 
 - Preszistens adattároás SQLite
-- Room absztakciós réteg SQlite felett
+- Room absztakciós réteg SQLite felett
 - TheMealDB API hanszálata receptek lekérésére
 - MPAndroidChart a diagram megjelenítésére
 - Retrofit az API által nyújtott adatok feldolgozására
