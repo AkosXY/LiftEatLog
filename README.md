@@ -22,3 +22,28 @@ valamint hasznos receptekkel könnyítve a sportoló fejlődését.
 
 ## Funkciók bemutatása
 
+### Menu
+<img src="images/home.png" height="500">
+
+### API
+
+<div>
+    <img src="images/api.png" height="500">
+    <img src="images/api2.png" height="500">
+</div>
+
+
+### List
+
+<div>
+    <img src="images/list.png" height="500">
+    <img src="images/listFrag.png" height="500">
+</div>
+
+
+### Chart and Calculator
+
+<div>
+    <img src="images/chart.png" height="500">
+    <img src="images/calc.png" height="500">
+</div>
